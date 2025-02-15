@@ -1,0 +1,16 @@
+/* filepath: /public/css/custom-font.css */
+@font-face {
+    font-family: 'uthmanic_warsh';
+    src: url('../fonts/uthmanic_warsh_v21.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+.warsh {
+    font-family: 'uthmanic_warsh', sans-serif;
+}
+
+body{
+    background-color: antiquewhite;
+}

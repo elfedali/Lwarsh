@@ -1,0 +1,800 @@
+[
+    {
+        "index": "001",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Fatiha",
+        "titleAr": "الفاتحة"
+    },
+    {
+        "index": "002",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Baqara",
+        "titleAr": "البقرة"
+    },
+    {
+        "index": "003",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Aal-Imran",
+        "titleAr": "آل عمران"
+    },
+    {
+        "index": "004",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "An-Nisaa'",
+        "titleAr": "النساء"
+    },
+    {
+        "index": "005",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Ma'ida",
+        "titleAr": "المائدة"
+    },
+    {
+        "index": "006",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-An'am",
+        "titleAr": "الأنعام"
+    },
+    {
+        "index": "007",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-A'raf",
+        "titleAr": "الأعراف"
+    },
+    {
+        "index": "008",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Anfal",
+        "titleAr": "الأنفال"
+    },
+    {
+        "index": "009",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Tawba",
+        "titleAr": "التوبة"
+    },
+    {
+        "index": "010",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Yunus",
+        "titleAr": "يونس"
+    },
+    {
+        "index": "011",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Hud",
+        "titleAr": "هود"
+    },
+    {
+        "index": "012",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Yusuf",
+        "titleAr": "يوسف"
+    },
+    {
+        "index": "013",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Ar-Ra'd",
+        "titleAr": "الرعد"
+    },
+    {
+        "index": "014",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ibrahim",
+        "titleAr": "إبراهيم"
+    },
+    {
+        "index": "015",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Hijr",
+        "titleAr": "الحجر"
+    },
+    {
+        "index": "016",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "An-Nahl",
+        "titleAr": "النحل"
+    },
+    {
+        "index": "017",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Israa",
+        "titleAr": "الإسراء"
+    },
+    {
+        "index": "018",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Kahf",
+        "titleAr": "الكهف"
+    },
+    {
+        "index": "019",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Maryam",
+        "titleAr": "مريم"
+    },
+    {
+        "index": "020",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ta-Ha",
+        "titleAr": "طه"
+    },
+    {
+        "index": "021",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Anbiya",
+        "titleAr": "الأنبياء"
+    },
+    {
+        "index": "022",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Hajj",
+        "titleAr": "الحج"
+    },
+    {
+        "index": "023",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Muminun",
+        "titleAr": "المؤمنون"
+    },
+    {
+        "index": "024",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "An-Nur",
+        "titleAr": "النور"
+    },
+    {
+        "index": "025",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Furqan",
+        "titleAr": "الفرقان"
+    },
+    {
+        "index": "026",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ash-Shuara",
+        "titleAr": "الشعراء"
+    },
+    {
+        "index": "027",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "An-Naml",
+        "titleAr": "النمل"
+    },
+    {
+        "index": "028",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Qasas",
+        "titleAr": "القصص"
+    },
+    {
+        "index": "029",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Ankabut",
+        "titleAr": "العنكبوت"
+    },
+    {
+        "index": "030",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ar-Rum",
+        "titleAr": "الروم"
+    },
+    {
+        "index": "031",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Luqman",
+        "titleAr": "لقمان"
+    },
+    {
+        "index": "032",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "As-Sajdah",
+        "titleAr": "السجدة"
+    },
+    {
+        "index": "033",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Ahzab",
+        "titleAr": "الأحزاب"
+    },
+    {
+        "index": "034",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Saba",
+        "titleAr": "سبأ"
+    },
+    {
+        "index": "035",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Fatir",
+        "titleAr": "فاطر"
+    },
+    {
+        "index": "036",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Yasin",
+        "titleAr": "يس"
+    },
+    {
+        "index": "037",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "As-Saffat",
+        "titleAr": "الصافات"
+    },
+    {
+        "index": "038",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Sad",
+        "titleAr": "ص"
+    },
+    {
+        "index": "039",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Az-Zumar",
+        "titleAr": "الزمر"
+    },
+    {
+        "index": "040",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ghafir",
+        "titleAr": "غافر"
+    },
+    {
+        "index": "041",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Fussilat",
+        "titleAr": "فصلت"
+    },
+    {
+        "index": "042",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ash-Shura",
+        "titleAr": "الشورى"
+    },
+    {
+        "index": "043",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Az-Zukhruf",
+        "titleAr": "الزخرف"
+    },
+    {
+        "index": "044",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ad-Dukhan",
+        "titleAr": "الدخان"
+    },
+    {
+        "index": "045",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Jathiya",
+        "titleAr": "الجاثية"
+    },
+    {
+        "index": "046",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Ahqaf",
+        "titleAr": "الأحقاف"
+    },
+    {
+        "index": "047",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Muhammad",
+        "titleAr": "محمد"
+    },
+    {
+        "index": "048",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Fath",
+        "titleAr": "الفتح"
+    },
+    {
+        "index": "049",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Hujurat",
+        "titleAr": "الحجرات"
+    },
+    {
+        "index": "050",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Qaf",
+        "titleAr": "ق"
+    },
+    {
+        "index": "051",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Az-Zariyat",
+        "titleAr": "الذاريات"
+    },
+    {
+        "index": "052",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "At-Tur",
+        "titleAr": "الطور"
+    },
+    {
+        "index": "053",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "An-Najm",
+        "titleAr": "النجم"
+    },
+    {
+        "index": "054",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Qamar",
+        "titleAr": "القمر"
+    },
+    {
+        "index": "055",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Ar-Rahman",
+        "titleAr": "الرحمن"
+    },
+    {
+        "index": "056",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Waqia",
+        "titleAr": "الواقعة"
+    },
+    {
+        "index": "057",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Hadid",
+        "titleAr": "الحديد"
+    },
+    {
+        "index": "058",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Mujadilah",
+        "titleAr": "المجادلة"
+    },
+    {
+        "index": "059",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Hashr",
+        "titleAr": "الحشر"
+    },
+    {
+        "index": "060",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Mumtahinah",
+        "titleAr": "الممتحنة"
+    },
+    {
+        "index": "061",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "As-Saff",
+        "titleAr": "الصف"
+    },
+    {
+        "index": "062",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Jumu'ah",
+        "titleAr": "الجمعة"
+    },
+    {
+        "index": "063",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Munafiqun",
+        "titleAr": "المنافقون"
+    },
+    {
+        "index": "064",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "At-Taghabun",
+        "titleAr": "التغابن"
+    },
+    {
+        "index": "065",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "At-Talaq",
+        "titleAr": "الطلاق"
+    },
+    {
+        "index": "066",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "At-Tahrim",
+        "titleAr": "التحريم"
+    },
+    {
+        "index": "067",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Mulk",
+        "titleAr": "الملك"
+    },
+    {
+        "index": "068",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Qalam",
+        "titleAr": "القلم"
+    },
+    {
+        "index": "069",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Haqqah",
+        "titleAr": "الحاقة"
+    },
+    {
+        "index": "070",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Ma'arij",
+        "titleAr": "المعارج"
+    },
+    {
+        "index": "071",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Nuh",
+        "titleAr": "نوح"
+    },
+    {
+        "index": "072",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Jinn",
+        "titleAr": "الجن"
+    },
+    {
+        "index": "073",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Muzzammil",
+        "titleAr": "المزمل"
+    },
+    {
+        "index": "074",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Muddaththir",
+        "titleAr": "المدثر"
+    },
+    {
+        "index": "075",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Qiyamah",
+        "titleAr": "القيامة"
+    },
+    {
+        "index": "076",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Insan",
+        "titleAr": "الإنسان"
+    },
+    {
+        "index": "077",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Mursalat",
+        "titleAr": "المرسلات"
+    },
+    {
+        "index": "078",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "An-Naba",
+        "titleAr": "النبأ"
+    },
+    {
+        "index": "079",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "An-Naziat",
+        "titleAr": "النازعات"
+    },
+    {
+        "index": "080",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Abasa",
+        "titleAr": "عبس"
+    },
+    {
+        "index": "081",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "At-Takwir",
+        "titleAr": "التكوير"
+    },
+    {
+        "index": "082",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Infitar",
+        "titleAr": "الإنفطار"
+    },
+    {
+        "index": "083",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Mutaffifin",
+        "titleAr": "المطففين"
+    },
+    {
+        "index": "084",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Inshiqaq",
+        "titleAr": "الإنشقاق"
+    },
+    {
+        "index": "085",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Buruj",
+        "titleAr": "البروج"
+    },
+    {
+        "index": "086",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "At-Tariq",
+        "titleAr": "الطارق"
+    },
+    {
+        "index": "087",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Ala",
+        "titleAr": "الأعلى"
+    },
+    {
+        "index": "088",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Ghashiyah",
+        "titleAr": "الغاشية"
+    },
+    {
+        "index": "089",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Fajr",
+        "titleAr": "الفجر"
+    },
+    {
+        "index": "090",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Balad",
+        "titleAr": "البلد"
+    },
+    {
+        "index": "091",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ash-Shams",
+        "titleAr": "الشمس"
+    },
+    {
+        "index": "092",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Lail",
+        "titleAr": "الليل"
+    },
+    {
+        "index": "093",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ad-Duha",
+        "titleAr": "الضحى"
+    },
+    {
+        "index": "094",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Ash-Sharh",
+        "titleAr": "الشرح"
+    },
+    {
+        "index": "095",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "At-Tin",
+        "titleAr": "التين"
+    },
+    {
+        "index": "096",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Alaq",
+        "titleAr": "العلق"
+    },
+    {
+        "index": "097",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Qadr",
+        "titleAr": "القدر"
+    },
+    {
+        "index": "098",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Al-Bayinah",
+        "titleAr": "البينة"
+    },
+    {
+        "index": "099",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "Az-Zalzalah",
+        "titleAr": "الزلزلة"
+    },
+    {
+        "index": "100",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Adiyat",
+        "titleAr": "العاديات"
+    },
+    {
+        "index": "101",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Qariah",
+        "titleAr": "القارعة"
+    },
+    {
+        "index": "102",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Takathur",
+        "titleAr": "التكاثر"
+    },
+    {
+        "index": "103",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Asr",
+        "titleAr": "العصر"
+    },
+    {
+        "index": "104",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Humazah",
+        "titleAr": "الهمزة"
+    },
+    {
+        "index": "105",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Fil",
+        "titleAr": "الفيل"
+    },
+    {
+        "index": "106",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Quraish",
+        "titleAr": "قريش"
+    },
+    {
+        "index": "107",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Ma'un",
+        "titleAr": "الماعون"
+    },
+    {
+        "index": "108",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Kauthar",
+        "titleAr": "الكوثر"
+    },
+    {
+        "index": "109",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Kafirun",
+        "titleAr": "الكافرون"
+    },
+    {
+        "index": "110",
+        "place": "Medina",
+        "type": "Madaniyah",
+        "title": "An-Nasr",
+        "titleAr": "النصر"
+    },
+    {
+        "index": "111",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Masad",
+        "titleAr": "المسد"
+    },
+    {
+        "index": "112",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Ikhlas",
+        "titleAr": "الإخلاص"
+    },
+    {
+        "index": "113",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "Al-Falaq",
+        "titleAr": "الفلق"
+    },
+    {
+        "index": "114",
+        "place": "Mecca",
+        "type": "Makkiyah",
+        "title": "An-Nas",
+        "titleAr": "الناس"
+    }
+]

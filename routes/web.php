@@ -14,5 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+    // list($surahs, $ayahs) = \App\Models\Ayah::getSurahsAndAyahs();
     return view('welcome');
 });

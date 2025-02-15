@@ -14,6 +14,29 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
+
+Route::get('/surahs', function () {
+    $surahs = \App\Models\Surah::all()->sortBy('surah_no');
+    return response()->json($surahs);
+});
+
+Route::get('/ayahs', function () {
+    $ayahs = \App\Models\Ayah::all();
+    return response()->json($ayahs);
+});
+
+
+Route::get('/surahs/{id}', function ($id) {
+    $surah = \App\Models\Surah::find($id)->load('ayahs');
+    return response()->json($surah);
+});
+
+// Route::get('/surahs/{id}/ayahs', function ($id) {
+//     $ayahs = \App\Models\Ayah::where('surah_id', $id)->get();
+//     return response()->json($ayahs);
+// });
+
+Route::get('/surahs/{id}/ayahs/{ayah}', function ($id, $ayah) {
+    $ayah = \App\Models\Ayah::where('surah_no', $id)->where('ayah_no', $ayah)->first();
+    return response()->json($ayah);
 });
