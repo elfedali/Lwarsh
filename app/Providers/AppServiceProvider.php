@@ -19,6 +19,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        // remove data from collection
+        \Illuminate\Http\Resources\Json\ResourceCollection::withoutWrapping();
     }
 }

@@ -1,5 +1,9 @@
 <?php
 
+use App\Http\Resources\SurahCollection;
+use App\Http\Resources\SurahResource;
+use App\Http\Resources\SurahWithAyahsResource;
+use App\Models\Surah;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -17,19 +21,20 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/surahs', function () {
     $surahs = \App\Models\Surah::all()->sortBy('surah_no');
-    return response()->json($surahs);
+    return new SurahCollection($surahs);
 });
 
-Route::get('/ayahs', function () {
-    $ayahs = \App\Models\Ayah::all();
-    return response()->json($ayahs);
-});
+Route::get('/ayahs/{id}', function ($id) {
+    $ayah = \App\Models\Ayah::find($id);
+    return new \App\Http\Resources\AyahResource($ayah);
+})->name('ayahs.show');
 
 
-Route::get('/surahs/{id}', function ($id) {
+Route::get('/surahs/{id}', function (Request $request, $id) {
+
     $surah = \App\Models\Surah::find($id)->load('ayahs');
-    return response()->json($surah);
-});
+    return new SurahWithAyahsResource($surah);
+})->name('surahs.show');
 
 // Route::get('/surahs/{id}/ayahs', function ($id) {
 //     $ayahs = \App\Models\Ayah::where('surah_id', $id)->get();

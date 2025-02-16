@@ -9,6 +9,7 @@ class Surah extends Model
 {
     use HasFactory;
 
+    const SURAH_COUNT = 114;
 
     protected $fillable = [
         'id',

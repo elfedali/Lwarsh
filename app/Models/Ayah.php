@@ -9,6 +9,8 @@ class Ayah extends Model
 {
     use HasFactory;
 
+    const AYAHS_COUNT = 6214;
+
     protected $fillable = [
         'id',
         'ayah_id',
